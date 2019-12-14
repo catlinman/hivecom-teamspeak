@@ -40,6 +40,10 @@ Simply clone or download this repository and then move the directories within
 should be kept the same. After that, the theme should be available as both a
 style and an icon pack within your preferences.
 
+## Font ##
+
+Optionally, there's a font directory included in your TeamSpeak application data directory under *styles/Hivecom/font* which you can install after any of the previous steps.
+
 ## Icons ##
 
 This add-on in itself contains a corresponding icon pack of the same name
